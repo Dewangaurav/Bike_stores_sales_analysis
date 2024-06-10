@@ -111,4 +111,4 @@ The primary objectives of this project are to:
 #### Conclusion
 This project demonstrates the application of SQL in analyzing sales data from bike stores to derive actionable insights. By answering the key analysis questions, we can identify top-performing products and stores, understand customer behavior, evaluate staff performance, and manage inventory effectively. These insights are crucial for strategic decision-making and improving overall business performance.
 
-###Note: The analysis queries provided in this project are written in Microsoft SQL database and can be executed on any SQL database management system containing the credit card transaction dataset.
+***Note: The analysis queries provided in this project are written in Microsoft SQL database and can be executed on any SQL database management system containing the credit card transaction dataset.
