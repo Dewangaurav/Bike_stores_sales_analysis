@@ -1,6 +1,6 @@
 ### Bike_stores_sales_analysis
 
-#### Introduction
+### Introduction
 This project focuses on analyzing sales data from a chain of bike stores to gain insights into sales performance, customer behavior, product popularity, and inventory management. By leveraging SQL queries, we aim to extract meaningful information from the data, which can inform business strategies and decision-making processes.
 
 ### Tool used
